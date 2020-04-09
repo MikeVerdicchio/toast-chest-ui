@@ -3,24 +3,23 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    state = {
+        toast: {}
+    }
+
+    return (
+        <div className="App">
+            <header className="App-header">
+                <img src={logo} className="App-logo" alt="logo" />
+                <div className="row text-center">
+                    <hr />
+                    <h1>Toast Chest</h1>
+                    <hr />
+                    <p>Here's to friendship, here's to great times, and here's to when the Toast Chest isn't around.</p>
+                </div>
+            </header>
+        </div>
+    );
 }
 
 export default App;
