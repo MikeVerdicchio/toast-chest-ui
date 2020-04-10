@@ -1,5 +1,5 @@
 // Toast Chest URLs
-export const TOAST_CHEST_BASE_URL = 'https://toast-chest.herokuapp.com/';
+export const TOAST_CHEST_BASE_URL = 'https://toast-chest.herokuapp.com';
 export const TOAST_CHEST_RANDOM = `${TOAST_CHEST_BASE_URL}/random.json`;
 
 // Default toast to show on the homepage
