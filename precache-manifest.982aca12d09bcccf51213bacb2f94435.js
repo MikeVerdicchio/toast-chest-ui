@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8816335ee3e49ad6c0a3174fd55a0980",
+    "revision": "f74a974cfe4860b6c1df9beab485b9a9",
     "url": "/toast-chest-ui/index.html"
   },
   {
-    "revision": "5df5cf23eaaa8bb30075",
+    "revision": "bdc7629176914bc4a7e8",
     "url": "/toast-chest-ui/static/css/main.0633572c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toast-chest-ui/static/js/2.ec718ad0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5df5cf23eaaa8bb30075",
-    "url": "/toast-chest-ui/static/js/main.ab279f37.chunk.js"
+    "revision": "bdc7629176914bc4a7e8",
+    "url": "/toast-chest-ui/static/js/main.57e3ccde.chunk.js"
   },
   {
     "revision": "0583cb7cc92f897cd2d8",

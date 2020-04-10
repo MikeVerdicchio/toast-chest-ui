@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/toast-chest-ui/static/css/main.0633572c.chunk.css",
-    "main.js": "/toast-chest-ui/static/js/main.ab279f37.chunk.js",
-    "main.js.map": "/toast-chest-ui/static/js/main.ab279f37.chunk.js.map",
+    "main.js": "/toast-chest-ui/static/js/main.57e3ccde.chunk.js",
+    "main.js.map": "/toast-chest-ui/static/js/main.57e3ccde.chunk.js.map",
     "runtime-main.js": "/toast-chest-ui/static/js/runtime-main.2b7990f2.js",
     "runtime-main.js.map": "/toast-chest-ui/static/js/runtime-main.2b7990f2.js.map",
     "static/js/2.ec718ad0.chunk.js": "/toast-chest-ui/static/js/2.ec718ad0.chunk.js",
     "static/js/2.ec718ad0.chunk.js.map": "/toast-chest-ui/static/js/2.ec718ad0.chunk.js.map",
     "index.html": "/toast-chest-ui/index.html",
-    "precache-manifest.bd02fbc20eb9c88e43c6a7593bfaa88f.js": "/toast-chest-ui/precache-manifest.bd02fbc20eb9c88e43c6a7593bfaa88f.js",
+    "precache-manifest.982aca12d09bcccf51213bacb2f94435.js": "/toast-chest-ui/precache-manifest.982aca12d09bcccf51213bacb2f94435.js",
     "service-worker.js": "/toast-chest-ui/service-worker.js",
     "static/css/main.0633572c.chunk.css.map": "/toast-chest-ui/static/css/main.0633572c.chunk.css.map",
     "static/js/2.ec718ad0.chunk.js.LICENSE.txt": "/toast-chest-ui/static/js/2.ec718ad0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2b7990f2.js",
     "static/js/2.ec718ad0.chunk.js",
     "static/css/main.0633572c.chunk.css",
-    "static/js/main.ab279f37.chunk.js"
+    "static/js/main.57e3ccde.chunk.js"
   ]
 }
