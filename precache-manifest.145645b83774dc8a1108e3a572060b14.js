@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6141654d81996db5c4c430e0f38f2a55",
+    "revision": "41ad86e8a0e18237b560f075c9ef1c2d",
     "url": "/toast-chest-ui/index.html"
   },
   {
-    "revision": "db1c2dbcc35912f7e167",
-    "url": "/toast-chest-ui/static/css/main.5f361e03.chunk.css"
+    "revision": "4b0da07d298748b52d5b",
+    "url": "/toast-chest-ui/static/css/main.0633572c.chunk.css"
   },
   {
-    "revision": "6f270144ef1278383f86",
-    "url": "/toast-chest-ui/static/js/2.6e17a8bb.chunk.js"
+    "revision": "321e16955bf56ed4b539",
+    "url": "/toast-chest-ui/static/js/2.ec718ad0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/toast-chest-ui/static/js/2.6e17a8bb.chunk.js.LICENSE.txt"
+    "url": "/toast-chest-ui/static/js/2.ec718ad0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db1c2dbcc35912f7e167",
-    "url": "/toast-chest-ui/static/js/main.ca2db80a.chunk.js"
+    "revision": "4b0da07d298748b52d5b",
+    "url": "/toast-chest-ui/static/js/main.eb5541c6.chunk.js"
   },
   {
     "revision": "0583cb7cc92f897cd2d8",
