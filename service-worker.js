@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/toast-chest-ui/precache-manifest.982aca12d09bcccf51213bacb2f94435.js"
+  "/toast-chest-ui/precache-manifest.b3586476b44a8868b81219d5bc076fc3.js"
 );
 
 self.addEventListener('message', (event) => {
