@@ -5,7 +5,7 @@ export default class Toast extends Component {
     render() {
         return (
             <div>
-                <p>{this.props.toast}</p>
+                <p className="Toast-text">{this.props.toast}</p>
             </div>
         );
     }
