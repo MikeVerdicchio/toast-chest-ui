@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import './App.css';
-import Toast from '../Toast';
+import "./App.css";
+import Toast from "../Toast";
 
 function App() {
   return (
