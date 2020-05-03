@@ -11,7 +11,7 @@ function Toast() {
   const loadNewToast = async () => {
     const resp = await fetch(TOAST_CHEST_RANDOM);
     const data = await resp.json();
-    setToast(data.toast);
+    setToast(data.Toast);
   };
   const handleClick = () => loadNewToast();
 
