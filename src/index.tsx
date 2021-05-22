@@ -1,11 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import App from "./components/App";
+import { ToastChest } from "./components/";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ToastChest />
   </React.StrictMode>,
   document.getElementById("root")
 );
