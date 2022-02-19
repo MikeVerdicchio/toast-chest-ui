@@ -38,7 +38,7 @@ const ToastChest: React.FC<Props> = () => {
 
         <Styled.Text>{toast}</Styled.Text>
         <Styled.GenerateButton onClick={() => loadNewToast()}>
-          {toast ? "Another!" : "Generate a toast!"}
+          Another!
         </Styled.GenerateButton>
       </Styled.Header>
     </Styled.AppContainer>
